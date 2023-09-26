@@ -1,0 +1,333 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    
+}
+.author{
+text-align: center;
+}
+body{
+    background-color: rgb(240, 207, 164);
+
+}
+.underline{
+    text-decoration: underline;
+  text-align: center;
+    margin-top: 30px;
+}
+.yellow:hover{
+     background-color: #fdfd96 ;
+}
+.purple:hover{
+    background-color:#E0BBE4;
+}
+.daff:hover{
+    background-color: rgb(201, 209, 128);
+}
+.pink:hover{
+    background-color: #FEC8D8;
+}
+.white:hover{
+    background-color: #FAF8F6;
+}
+td,th{
+    border-left: solid 2px black;
+    width:55px;
+    text-align: center;
+    border-right: solid 2px black;
+    border-bottom: solid 2px black;
+    border-top: solid 2px black;
+}
+
+.labels{
+    text-decoration: 2px solid underline;
+}
+hr{
+    border:none;
+    height: 1.5px;
+    background-color: black;
+    background-color:linen;
+}
+
+.intro{
+   border-style: outset;
+   border-width: thin medium thick 5px;
+   margin-left: 20px;
+   margin-right: 20px;
+   background-color:linen;
+  
+   border-left-color: black;
+   border-right-color: white;
+   border-bottom-color: white;
+}
+.intropara{
+    margin-left: 20px;
+    margin-right: 20px;
+  
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.container{
+    display:flex;
+    column-gap: 15px;
+    justify-content: left;
+    align-items: center;
+    min-height: 25vh;
+    margin:50px;
+    width: 75%;
+    
+}
+.Montagu{
+    text-decoration: underline;
+}
+.born{
+    text-decoration: underline;
+}
+.return{
+    text-decoration: underline;
+}
+.roseimage{
+max-width: 350px;
+float:left;
+border-radius: 15px;
+border:3px solid white;
+margin-right: 20px;
+}
+.romantic_text h3{
+    font-size:20px;
+    text-decoration: underline;
+}
+.romantic_text p{
+font-size: 16px;
+}
+.romantic_text{
+    border-style: double;
+    padding-left: 10px;
+    border-color:rgb(174, 16, 16);
+}
+.combinecontainer{
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    justify-content: right;
+    align-items: center;
+    min-height: 25vh;
+    margin:50px;
+    width: 75%;
+    padding-left: 100px;
+}
+.jasmin{
+    order:999;
+    max-width: 350px;
+    float:left;
+    border-radius: 15px;
+    border:3px solid white;
+    margin-right: 20px;
+}
+.jasmintext{
+    order:1;
+    font-size: 16px;
+    border-style: double;
+    padding-left: 10px;
+    border-color:rgb(32, 132, 66);
+}
+.jasmintext h3{
+    font-size:20px;
+    text-decoration: underline;
+}
+
+.neginfo{
+    border-style: double;
+    padding-left: 10px;
+    border-color:rgb(37, 137, 191);
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.neginfo p{
+    font-size: 16px;
+}
+.neginfo h3{
+    font-size:20px;
+    text-decoration: underline;
+    text-align:center;
+}
+.delp{
+    border-radius: 15px;
+    border: 3px solid white;
+    margin-left:35px;
+}
+.hydrangeas{
+    border-radius: 15px;
+    border: 3px solid white;
+    margin-left:35px;
+}
+.birdsfoot{
+    border-radius: 15px;
+    border: 3px solid white;
+    margin-left:35px;
+    margin-top: 15px;
+}
+.orleander{
+    border-radius: 15px;
+    border: 3px solid white;
+    margin-left:35px;
+}
+.negtable{
+    margin-left:23%;
+}
+.flowerchart{
+    margin:55px 0 0 35%;
+    margin-top: 30px;
+    width:33%;
+    border:3px solid white;
+}
+
+.colorlist h3{
+    text-decoration: underline;
+    font-size:20px;
+
+}
+ .pinktext{
+    color:rgb(221, 0, 255)
+}
+.violettext{
+    color:rgb(149, 25, 149);
+}
+.blue{
+    color:blue;
+}
+.red{
+    color:red;
+}
+.orange{
+    color:rgb(217, 168, 44);
+}
+
+.form h3{
+    font-size:20px;
+    text-decoration: underline;
+    
+}
+.form button{
+    background-color: #4e4caf; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    border-radius: 8px;
+
+}
+.form button:hover{
+  background-color: #4c86af; 
+  color: white;
+  transition-duration: 0.15s;
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 20px 50px 0 rgba(0,0,0,0.19);
+  cursor: pointer;
+  transform: scale(0.98);
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+  
+}
+.history{
+    background-color: rgb(240, 207, 164);
+    font-size: 16px;
+}
+.history h1{
+    text-decoration: underline;
+}
+.lady{
+margin-left:45%;
+}
+.caption{
+margin-left:35%;
+}
+.sources{
+    background-color: rgb(240, 207, 164);
+    font-size: 20px;
+}
+.sources h1{
+    text-decoration: underline;
+}
+.sources h3{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.rise{
+    font-size: 16px;
+}
+a:link {
+    color: rgb(8, 8, 8);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(113, 56, 218);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(47, 188, 190);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(175, 145, 36);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  @media(min-width: 600px){
+  body p{
+    font-size: 20px;
+  }
+  .container p{
+    font-size: 20px;
+  }
+  .combinecontainer p{
+    font-size: 20px;
+  }
+  .neginfo p{
+    font-size: 20px;
+  }
+  .colorlist ul{
+    font-size: 20px;
+  }
+  }
+
+@media(min-width: 800px){
+    p{
+        font-size: 22px;
+        line-height:1.5;
+    }
+@media(min-width: 600px){
+        body p{
+          font-size: 20px;
+        }
+        .container p{
+          font-size: 20px;
+        }
+        .combinecontainer p{
+          font-size: 20px;
+        }
+        .neginfo p{
+          font-size: 20px;
+        }
+        .colorlist ul{
+          font-size: 20px;
+        }
+      
+    }
+}
+@media(max-width: 800px){
+    p{
+        font-size: 22px;
+        line-height:1.5;
+    }
+}
